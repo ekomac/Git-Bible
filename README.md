@@ -223,7 +223,7 @@ Here is a comprehensive list of essential Git commands, their definitions, and e
    git push --tags
    ```
 
-35. **git checkout <tagname>**: Switches to a specific tag.
+35. **git checkout \<tagname>**: Switches to a specific tag.
    Example:
    ```bash
    git checkout v1.0
@@ -231,7 +231,7 @@ Here is a comprehensive list of essential Git commands, their definitions, and e
 
 ## Aliases
 
-36. **git config --global alias.<alias-name> "<command>"**: Creates a shortcut for a Git command.
+36. **git config --global alias.\<alias-name> "\<command>"**: Creates a shortcut for a Git command.
    Example:
    ```bash
    git config --global alias.co checkout
